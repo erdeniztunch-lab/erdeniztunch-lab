@@ -22,10 +22,6 @@ Lean is the law: Move fast, validate early, cut the bloat.
 - **Other Startups** – PM / Lead / Analyst  
 
 
-## CONTACT
-📧 [erdeniztunch@gmail.com](mailto:erdeniztunch@gmail.com) |LinkedIn | Blog
-
-
 ## ⚡ STATUS: MAXIMUM OVERDRIVE
 
 ```text
