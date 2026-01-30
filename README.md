@@ -12,7 +12,7 @@ Lean is the law: Move fast, validate early, cut the bloat.
 - **Product Strategy:** Roadmaps, Metrics, MVPs  
 - **UX:** Wireframes, Prototypes, User Flows  
 - **Market & GTM:** Research, Launch, Growth Ops  
-- **Tech Arsenal:** Python | JS | TS | Figma | Jira | GitHub | GitLab  
+- **Tech Arsenal:** Python | Figma | Jira | Cursor
 
 
 ## 🏟️ BATTLEFIELD
