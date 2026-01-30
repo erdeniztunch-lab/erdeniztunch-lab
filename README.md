@@ -1,13 +1,11 @@
 # 🔥 ERDENİZ TUNÇ 🔥
-*Product Slayer / Startup Hunter*
+### *Product Slayer / Startup Hunter*
 
 ---
 
 ## WHO AM I
 3+ years crushing products from **idea → launch**.  
 UX. GTM. MVP. Done. Fast. Hard. Real.  
-
----
 
 ## 💀 MANIFESTO
 
