@@ -10,14 +10,14 @@ UX. GTM. MVP. Done. Fast. Hard. Real.
 Lean is the law: Move fast, validate early, cut the bloat.
 
 
-## WEAPONS
+## ⚔️ WEAPONS
 - **Product Strategy:** Roadmaps, Metrics, MVPs  
 - **UX:** Wireframes, Prototypes, User Flows  
 - **Market & GTM:** Research, Launch, Growth Ops  
 - **Tech Arsenal:** Python | JS | TS | Figma | Jira | GitHub | GitLab  
 
 
-## BATTLEFIELD
+## 🏟️ BATTLEFIELD
 - **Tedaarik** – Product (Dec 2024 – Jan 2026)  
 - **Other Startups** – PM / Lead / Analyst  
 
