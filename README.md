@@ -1,11 +1,5 @@
 # 🔥 ERDENİZ TUNÇ 🔥
 ### *Product Slayer / Startup Hunter*
-______  _____  _____ ___  ___
-|  _  \|  _  ||  _  ||  \/  |
-| | | || | | || | | || .  . |
-| | | || | | || | | || |\/| |
-| |/ / \ \_/ /\ \_/ /| |  | |
-|___/   \___/  \___/ \_|  |_/
 
 ## WHO AM I
 3+ years crushing products from **idea → launch**.  
@@ -32,6 +26,14 @@ Lean is the law: Move fast, validate early, cut the bloat.
 📧 [erdeniztunch@gmail.com](mailto:erdeniztunch@gmail.com) |LinkedIn | Blog
 
 
-## CURRENT MODE: HELL MODE
+## ⚡ STATUS: MAXIMUM OVERDRIVE
+
+```text
+ ______   _____   _____  ___  ___ 
+ |  _  \ |  _  | |  _  | |  \/  | 
+ | | | | | | | | | | | | | .  . | 
+ | | | | | | | | | | | | | |\/| | 
+ | |/ /  \ \_/ / \ \_/ / | |  | | 
+ |___/    \___/   \___/  \_|  |_/
               
        ⚡ HELL YEAH ⚡
