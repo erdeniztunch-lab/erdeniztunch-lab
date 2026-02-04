@@ -2,7 +2,6 @@
 3+ years crushing products from **idea → launch**.  
 UX. GTM. MVP. Done. Fast. Hard. Real.  
 
-## 💀 MANIFESTO
 Lean is the law: Move fast, validate early, cut the bloat.
 
 ```text
