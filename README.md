@@ -1,8 +1,13 @@
-# 🔥 ERDENİZ TUNÇ 🔥
-3+ years crushing products from **idea → launch**.  
-UX. GTM. MVP. Done. Fast. Hard. Real.  
+3+ years in early-stage SaaS and AI products.
 
-Lean is the law: Move fast, validate early, cut the bloat.
+I design products end-to-end:
+- Problem discovery
+- MVP definition
+- AI-assisted development
+- GTM experimentation
+
+Currently exploring:
+AI-native product development, logistics SaaS, and agentic systems.
 
 ```text
  ______   _____   _____  ___  ___ 
