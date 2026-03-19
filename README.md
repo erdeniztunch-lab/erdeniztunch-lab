@@ -1,10 +1,10 @@
-<h1 align="left">Hey 👋 I'm Erdeniz</h1>
+<h1 align="left">Hey 👋 I'm Erdeniz 🌊</h1>
 
 <p align="left">
-Product Manager learning to build AI-powered products.
+Product Manager building AI-powered products.
 </p>
 
-<h2 align="left">Tech I'm working with</h2>
+<h2 align="left">Building with</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"/>
@@ -14,10 +14,14 @@ Product Manager learning to build AI-powered products.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" height="40" alt="rails logo"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"/>
+  <img width="12"/>
+  <img src="https://cdn.simpleicons.org/openai" height="40" alt="codex logo"/>
+  <img width="12"/>
+  <img src="https://cdn.simpleicons.org/anthropic" height="40" alt="claude logo"/>
 </div>
 
 <h2 align="left">Interests</h2>
 
 <p align="left">
-AI products · DevTools · Supply chain technology
+AI products · DevTools · Supply chain technology · workflow automation
 </p>
