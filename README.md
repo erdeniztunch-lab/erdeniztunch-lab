@@ -14,14 +14,10 @@ Product Manager building AI-powered products.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" height="40" alt="rails logo"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"/>
-  <img width="12"/>
-  <img src="https://cdn.simpleicons.org/openai" height="40" alt="codex logo"/>
-  <img width="12"/>
-  <img src="https://cdn.simpleicons.org/anthropic" height="40" alt="claude logo"/>
 </div>
 
 <h2 align="left">Interests</h2>
 
 <p align="left">
-AI products · DevTools · Supply chain technology · workflow automation
+AI products · DevTools · Supply chain technology
 </p>
