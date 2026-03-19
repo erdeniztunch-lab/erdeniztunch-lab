@@ -1,22 +1,23 @@
-# Erdeniz Tunç
+<h1 align="left">Hey 👋 I'm Erdeniz</h1>
 
-3+ years in early-stage SaaS and AI products.
+<p align="left">
+Product Manager learning to build AI-powered products.
+</p>
 
-I design products end-to-end:
-- Problem discovery
-- MVP definition
-- AI-assisted development
-- GTM experimentation
+<h2 align="left">Tech I'm working with</h2>
 
-Currently exploring:
-AI-native product development, logistics SaaS, and agentic systems.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="ruby logo"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" height="40" alt="rails logo"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"/>
+</div>
 
-```text
- ______   _____   _____  ___  ___ 
- |  _  \ |  _  | |  _  | |  \/  | 
- | | | | | | | | | | | | | .  . | 
- | | | | | | | | | | | | | |\/| | 
- | |/ /  \ \_/ / \ \_/ / | |  | | 
- |___/    \___/   \___/  \_|  |_/
-              
-        ⚡ HELL YEAH ⚡
+<h2 align="left">Interests</h2>
+
+<p align="left">
+AI products · DevTools · Supply chain technology
+</p>
