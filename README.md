@@ -1,23 +1,42 @@
-<h1 align="left">Hey 👋 I'm Erdeniz 🌊</h1>
+## Hey, I'm Erdeniz 👋
 
-<p align="left">
-Product Manager building AI-powered products.
-</p>
+Product Engineer at [Optifeed](https://optifeed.com) — building AI-powered products that solve real operational problems.
 
-<h2 align="left">Building with</h2>
+Currently focused on: **logistics tech · B2B SaaS · AI-native workflows**
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="ruby logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" height="40" alt="rails logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"/>
-</div>
+---
 
-<h2 align="left">Interests</h2>
+### What I build
 
-<p align="left">
-AI products · DevTools · Supply chain technology
-</p>
+- **AI SaaS** — end-to-end products from idea to deployed MVP
+- **B2B tooling** — lead management, demo environments, messaging systems
+- **AI workflows** — LLM-powered pipelines for ops, sales, and analytics
+
+---
+
+### Recent projects
+
+| Project | What it does | Stack |
+|---------|-------------|-------|
+| [ops-sentinel-ai](https://github.com/erdeniztunch-lab/ops-sentinel-ai) | AI exception management for logistics teams | Next.js · Supabase · Gemini |
+| [lead-scorer-ai](https://github.com/erdeniztunch-lab/lead-scorer-ai) | Automated lead enrichment & scoring pipeline | TypeScript |
+| [ai-demo-environment](https://github.com/erdeniztunch-lab/ai-demo-environment) | 5-min guided demo environment for B2B products | TypeScript |
+| [social-pulse-analyzer](https://github.com/erdeniztunch-lab/social-pulse-analyzer) | Reddit discussion analyzer — sentiment & themes | Python · Gemini |
+
+---
+
+### Tech I reach for
+
+`TypeScript` · `Python` · `React` · `Next.js` · `Supabase` · `Gemini API` · `Node.js`
+
+---
+
+### Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=erdeniztunch-lab&show_icons=true&hide_border=true&count_private=true&theme=default&hide_title=true)
+
+---
+
+### Find me
+
+🌐 [erdeniz-tunc-portfolio.vercel.app](https://erdeniz-tunc-portfolio.vercel.app) · 📍 Turkey
