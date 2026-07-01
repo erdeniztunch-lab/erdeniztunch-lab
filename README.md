@@ -8,4 +8,4 @@ Currently focused on: **logistics tech · B2B SaaS · AI-native workflows**
 
 ### Find me
 
-🌐 [erdeniz-tunc-portfolio.vercel.app](https://erdeniz-tunc-portfolio.vercel.app)
+🌐 [portfolio](https://erdeniztunc.com)
